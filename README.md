@@ -29,7 +29,7 @@ npm install google-map-react styled-components react-router-dom react-scripts
 
 ##### The last two task used Python in Jupyter
 
-   BookingData.ipynb       : Challenges  [3. Booking Data](https://github.com/itatsmove/smovechallenge/blob/master/challenges/bookingdata.md)            
+   [BookingData.ipynb](https://github.com/seth2000/Smove/blob/master/src/BookingData.ipynb)       : Challenges  [3. Booking Data](https://github.com/itatsmove/smovechallenge/blob/master/challenges/bookingdata.md)            
 
-   BookingOrdering.ipynb   : Challenges  [4. Booking Ordering Problem](https://github.com/itatsmove/smovechallenge/blob/master/challenges/bookingordering.md)
+   [BookingOrdering.ipynb](https://github.com/seth2000/Smove/blob/master/src/BookingOrdering.ipynb)   : Challenges  [4. Booking Ordering Problem](https://github.com/itatsmove/smovechallenge/blob/master/challenges/bookingordering.md)
 
