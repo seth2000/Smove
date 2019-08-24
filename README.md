@@ -14,17 +14,22 @@ You will also see any lint errors in the console.
 
 npm install google-map-react styled-components react-router-dom react-scripts
 
-### Code is keeping in simple, just prove of concept and architechure and it is very easy to convert to production
 
-There are two major React components for first two tasks
 
-   BookingAvailability.js   : Challenges  1. Booking Availability API
+### Code stays simple, just prove of concept and architechure, and it is very easy to convert to product
 
-   CarLocations.js          : Challenges  2. Car Location API
 
-The last two task used python in Jupyter
+#### The Google Map API key does not allow uploading to Github. Please use your own Google Cloud API key or email me for a temporary test key.
 
-   BookingData             : Challenges  3. Booking Data
+##### There are two major React components for first two tasks
 
-   BookingOrdering         : Challenges  4. Booking Ordering Problem
+   [BookingAvailability.js](https://github.com/seth2000/Smove/blob/master/src/BookingAvailability.js)   : Challenges  [1. Booking Availability API](https://github.com/itatsmove/smovechallenge/blob/master/challenges/availability.md)
+
+   [CarLocations.js](https://github.com/seth2000/Smove/blob/master/src/CarLocation.js)          : Challenges  [2. Car Location API](https://github.com/itatsmove/smovechallenge/blob/master/challenges/location.md)
+
+##### The last two task used Python in Jupyter
+
+   BookingData.ipynb       : Challenges  [3. Booking Data](https://github.com/itatsmove/smovechallenge/blob/master/challenges/bookingdata.md)            
+
+   BookingOrdering.ipynb   : Challenges  [4. Booking Ordering Problem](https://github.com/itatsmove/smovechallenge/blob/master/challenges/bookingordering.md)
 
